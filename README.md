@@ -5,7 +5,6 @@
 
 Official Pytorch implementation for our paper [ Deep Fusion Generative Adversarial Networks with spatial attention for Text-to-Image Synthesis](https://arxiv.org/abs/2008.05865) by Ming Tao, [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en), [Songsong Wu](https://www.researchgate.net/profile/Songsong_Wu), [Nicu Sebe](https://scholar.google.com/citations?user=tNtjSewAAAAJ&hl=en), [Xiaoyuan Jing](https://scholar.google.com/citations?hl=en&user=2IInQAgAAAAJ), [Fei Wu](https://scholar.google.com/citations?user=tgeCjhEAAAAJ&hl=en), [Bingkun Bao](https://scholar.google.com/citations?user=lDppvmoAAAAJ&hl=en). 
 
-<img src="framework.png" width="900px" height="448px"/>
 
 ---
 ### Requirements
